@@ -1,6 +1,6 @@
 <?php
  /*
-   Plugin Name: Custom License
+   Plugin Name: Custom License DB Table
    Plugin URI: #
    description: #
    Version: 1.0.0
